@@ -1,9 +1,9 @@
 {
-	"name": "react-dots-challaege",
+	"name": "react-dots-challenge",
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
-	"homepage": "https://balascobaco.github.io/React-Dots-Challange/",
+	"homepage": "https://balascobaco.github.io/React-Dots-Challenge/",
 	"scripts": {
 		"dev": "vite",
 		"build": "tsc && vite build",
